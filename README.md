@@ -29,6 +29,7 @@ O objetivo principal deste projeto é aprodundar em conceitos de fornt end, apre
 
 <h4>FrontEnd</h4>
 :heavy_check_mark: React: Utilizamos o React para criar uma UI declarativa e componentizada. <br>
+:heavy_check_mark: Material Mui: Utilizamos o MAterial Mui para usar componente <br>
 
 <h4>Back End</h4>
 :heavy_check_mark: Node: Utilizamos o Node para fazer toda aparte do backend. <br>
